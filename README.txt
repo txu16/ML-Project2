@@ -1,5 +1,5 @@
 1. Download the GitHub repository: https://github.com/txu16/ML-Project2
-2. In IntelliJ, open the folder ML-Project2
+2. In IntelliJ, open the folder ML-Project2-master
 3. For part one, run the IncomeTest.java
 	3a. To modify the algorithms and configurations, change the size of networks[], nnop[], and oa[] variables to the number of algorithms you want to run.
 	3b. Then add the names of the algorithms to the oaNames array
